@@ -1,49 +1,75 @@
-# Python For Analyst's 📊
+# 🐍 Python Analyst Roadmap Portfolio
 
-## 🔍 Overview
-This repository contains Python-based data analysis projects focused on solving real-world business problems using data.  
-It showcases my skills in data analysis, visualization, and insight generation using Python and analytical tools.
+### By Darshan Shenoy
 
----
+This repository documents my structured learning roadmap for becoming a **Python Analyst / Business Intelligence Analyst**, focusing on:
 
-## 🧠 Skills Demonstrated
-- Python (Pandas, NumPy)
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization (Matplotlib, Seaborn, Plotly)
-- SQL & Business Analytics
-- Dashboard-oriented analysis
+* 🐍 Python for Data Analysis
+* 🗄️ SQL (T-SQL & Advanced Analytics Queries)
+* 📊 Dashboards (Tableau & Power BI)
+* 📈 End-to-End Analytics Projects
 
 ---
 
-## 📁 Repository Structure
+## 🎯 Objective
+
+To build industry-ready analytics skills aligned with:
+
+* Business Analyst Roles
+* Data Analyst Roles
+* BI Analyst Roles
+* Product & Analytics Roles
+
+---
+
+## 🗺️ Learning Roadmap Structure
+
+```
 Python_analyst/
-
-├── data/           # Datasets used for analysis  
-├── notebooks/      # Jupyter notebooks (EDA & insights)  
-├── scripts/        # Python analysis scripts  
-└── visuals/        # Charts and graphs  
-
----
-
-## 📊 Projects Included
-- Sales Data Analysis
-- Customer Behavior Analysis
-- Business KPI Analysis
-- Trend & Forecast Analysis (Time Series)
-- Data Cleaning & Transformation Projects
+│
+├── python/
+├── sql/
+├── dashboards/
+├── projects/
+└── resources/
+```
 
 ---
 
-## ⚙️ Tools & Technologies
-- Python
-- Jupyter Notebook
-- Pandas & NumPy
-- Matplotlib & Seaborn
-- SQL
-- Tableau / Power BI (for visualization support)
+## 🧠 Skills Covered
+
+* Data Cleaning & Analysis (Python - Pandas)
+* Advanced SQL (Window Functions, CTEs)
+* Data Visualization & Dashboards
+* Business Case Analytics
+* End-to-End Data Projects
 
 ---
 
-## 🚀 How to Run the Project
-1. Clone the repository:
+## 📌 Tools & Technologies
+
+* Python (Pandas, NumPy, Matplotlib)
+* Microsoft SQL Server (T-SQL)
+* Tableau
+* Power BI
+* Excel
+* Git & GitHub
+
+---
+
+## 📊 Featured Projects (Upcoming)
+
+* EV Sales Analysis Dashboard
+* Customer Analytics Project
+* Business KPI Dashboard
+* End-to-End SQL + Python + Dashboard Project
+
+---
+
+## 🚀 Career Alignment
+
+This portfolio is designed to support my transition into:
+
+> Data Analyst | Business Analyst | BI Analyst roles
+
+With 3+ years of experience in Analytics & Business Analysis, this repository showcases structured and practical learning.
