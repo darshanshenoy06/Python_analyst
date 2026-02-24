@@ -1,4 +1,4 @@
-# 🐍 Python Analyst Roadmap Portfolio
+# 🐍 Analyst Roadmap Portfolio
 
 ### By Darshan Shenoy
 
