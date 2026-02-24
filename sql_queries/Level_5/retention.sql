@@ -1,4 +1,4 @@
-SELECT TOP 1
+SELECT
     city,
     ROUND(
         SUM(amount) * 100.0 / SUM(SUM(amount)) OVER (),
